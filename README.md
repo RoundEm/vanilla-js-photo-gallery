@@ -1,4 +1,4 @@
-# Photo Gallery
+# Vanilla JavaScript Photo Gallery
 
 ## Quickstart with python SimpleHTTPServer
 1. Download the code and save it locally to a folder such as `~/code/myfolder`
